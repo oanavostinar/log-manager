@@ -1,0 +1,12 @@
+
+Start-Date: 2025-07-17  11:18:59
+Commandline: /usr/bin/apt install apache2
+Requested-By: vostinar (1000)
+Install: libaprutil1t64:amd64 (1.6.3-1.1ubuntu7, automatic), libaprutil1-dbd-sqlite3:amd64 (1.6.3-1.1ubuntu7, automatic), apache2-data:amd64 (2.4.58-1ubuntu8.6, automatic), apache2-bin:amd64 (2.4.58-1ubuntu8.6, automatic), apache2-utils:amd64 (2.4.58-1ubuntu8.6, automatic), apache2:amd64 (2.4.58-1ubuntu8.6), libaprutil1-ldap:amd64 (1.6.3-1.1ubuntu7, automatic), libapr1t64:amd64 (1.7.2-3.1ubuntu0.1, automatic)
+End-Date: 2025-07-17  11:20:00
+
+Start-Date: 2025-07-17  12:26:09
+Commandline: /usr/bin/apt install nginx
+Requested-By: vostinar (1000)
+Install: nginx:amd64 (1.24.0-2ubuntu7.3), nginx-common:amd64 (1.24.0-2ubuntu7.3, automatic)
+End-Date: 2025-07-17  12:26:16

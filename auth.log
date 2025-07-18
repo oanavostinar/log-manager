@@ -1,0 +1,271 @@
+2025-07-12T10:16:32.298332+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-12T10:16:32.354941+03:00 vostinar-VirtualBox systemd-logind[787]: New session c1 of user vostinar.
+2025-07-12T10:16:32.399294+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-12T10:16:36.132175+03:00 vostinar-VirtualBox gnome-keyring-daemon[1664]: The Secret Service was already initialized
+2025-07-12T10:16:36.138303+03:00 vostinar-VirtualBox gnome-keyring-daemon[1664]: The PKCS#11 component was already initialized
+2025-07-12T10:16:36.139547+03:00 vostinar-VirtualBox gnome-keyring-daemon[1662]: discover_other_daemon: 1
+2025-07-12T10:16:36.157450+03:00 vostinar-VirtualBox gnome-keyring-daemon[1663]: discover_other_daemon: 1
+2025-07-12T10:16:36.163562+03:00 vostinar-VirtualBox gnome-keyring-daemon[1661]: discover_other_daemon: 1
+2025-07-12T10:16:46.284818+03:00 vostinar-VirtualBox polkitd[782]: Registered Authentication Agent for unix-session:c1 (system bus name :1.51 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-12T10:17:01.144862+03:00 vostinar-VirtualBox CRON[2179]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-12T10:17:01.153439+03:00 vostinar-VirtualBox CRON[2179]: pam_unix(cron:session): session closed for user root
+2025-07-12T10:17:19.377964+03:00 vostinar-VirtualBox dbus-daemon[758]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-12T10:30:01.269201+03:00 vostinar-VirtualBox CRON[2529]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-12T10:30:01.290955+03:00 vostinar-VirtualBox CRON[2529]: pam_unix(cron:session): session closed for user root
+2025-07-14T08:44:53.485906+03:00 vostinar-VirtualBox systemd-logind[789]: New seat seat0.
+2025-07-14T08:44:53.554085+03:00 vostinar-VirtualBox systemd-logind[789]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-14T08:44:53.556638+03:00 vostinar-VirtualBox systemd-logind[789]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-14T08:44:53.559133+03:00 vostinar-VirtualBox systemd-logind[789]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-14T08:44:54.501570+03:00 vostinar-VirtualBox polkitd[782]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-14T08:44:54.522054+03:00 vostinar-VirtualBox polkitd[782]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-14T08:44:54.840621+03:00 vostinar-VirtualBox polkitd[782]: Finished loading, compiling and executing 14 rules
+2025-07-14T08:44:54.929546+03:00 vostinar-VirtualBox polkitd[782]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-14T08:44:59.793097+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-14T08:44:59.863509+03:00 vostinar-VirtualBox systemd-logind[789]: New session c1 of user vostinar.
+2025-07-14T08:44:59.901312+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-14T08:45:02.079515+03:00 vostinar-VirtualBox gnome-keyring-daemon[1644]: The Secret Service was already initialized
+2025-07-14T08:45:02.079681+03:00 vostinar-VirtualBox gnome-keyring-daemon[1644]: The PKCS#11 component was already initialized
+2025-07-14T08:45:02.080098+03:00 vostinar-VirtualBox gnome-keyring-daemon[1642]: discover_other_daemon: 1
+2025-07-14T08:45:02.083896+03:00 vostinar-VirtualBox gnome-keyring-daemon[1643]: discover_other_daemon: 1
+2025-07-14T08:45:02.084114+03:00 vostinar-VirtualBox gnome-keyring-daemon[1641]: discover_other_daemon: 1
+2025-07-14T08:45:08.685057+03:00 vostinar-VirtualBox polkitd[782]: Registered Authentication Agent for unix-session:c1 (system bus name :1.51 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-14T08:45:38.815241+03:00 vostinar-VirtualBox dbus-daemon[759]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-14T09:52:19.021592+03:00 vostinar-VirtualBox CRON[2355]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T09:52:19.027641+03:00 vostinar-VirtualBox CRON[2355]: pam_unix(cron:session): session closed for user root
+2025-07-14T09:52:46.283372+03:00 vostinar-VirtualBox dbus-daemon[759]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-14T10:00:55.014001+03:00 vostinar-VirtualBox systemd-logind[2517]: New seat seat0.
+2025-07-14T10:00:55.016546+03:00 vostinar-VirtualBox systemd-logind[2517]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-14T10:00:55.016674+03:00 vostinar-VirtualBox systemd-logind[2517]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-14T10:00:55.018676+03:00 vostinar-VirtualBox systemd-logind[2517]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-14T10:00:55.349501+03:00 vostinar-VirtualBox systemd-logind[2517]: New session c1 of user vostinar.
+2025-07-14T10:01:26.235553+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): conversation failed
+2025-07-14T10:01:26.252021+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): auth could not identify password for [vostinar]
+2025-07-14T10:13:31.801432+03:00 vostinar-VirtualBox systemd-logind[2593]: New seat seat0.
+2025-07-14T10:13:32.738929+03:00 vostinar-VirtualBox systemd-logind[2593]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-14T10:13:32.739451+03:00 vostinar-VirtualBox systemd-logind[2593]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-14T10:13:32.739529+03:00 vostinar-VirtualBox systemd-logind[2593]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-14T10:13:32.743646+03:00 vostinar-VirtualBox systemd-logind[2593]: New session c1 of user vostinar.
+2025-07-14T10:14:03.960615+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): conversation failed
+2025-07-14T10:14:03.962551+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): auth could not identify password for [vostinar]
+2025-07-14T10:17:01.371099+03:00 vostinar-VirtualBox CRON[2626]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T10:17:01.395076+03:00 vostinar-VirtualBox CRON[2626]: pam_unix(cron:session): session closed for user root
+2025-07-14T10:17:35.004244+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-07-14T10:30:01.473612+03:00 vostinar-VirtualBox CRON[2677]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T10:30:01.660351+03:00 vostinar-VirtualBox CRON[2677]: pam_unix(cron:session): session closed for user root
+2025-07-14T10:46:41.716246+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): conversation failed
+2025-07-14T10:46:41.990514+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): auth could not identify password for [vostinar]
+2025-07-14T11:17:01.960635+03:00 vostinar-VirtualBox CRON[2790]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T11:17:02.005601+03:00 vostinar-VirtualBox CRON[2790]: pam_unix(cron:session): session closed for user root
+2025-07-14T11:30:01.047242+03:00 vostinar-VirtualBox CRON[2800]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T11:30:01.064212+03:00 vostinar-VirtualBox CRON[2800]: pam_unix(cron:session): session closed for user root
+2025-07-14T12:01:31.956226+03:00 vostinar-VirtualBox systemd-logind[2884]: New seat seat0.
+2025-07-14T12:01:32.250228+03:00 vostinar-VirtualBox systemd-logind[2884]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-14T12:01:32.250363+03:00 vostinar-VirtualBox systemd-logind[2884]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-14T12:01:32.250430+03:00 vostinar-VirtualBox systemd-logind[2884]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-14T12:01:32.252184+03:00 vostinar-VirtualBox systemd-logind[2884]: New session c1 of user vostinar.
+2025-07-14T12:02:03.236228+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): conversation failed
+2025-07-14T12:02:03.239087+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): auth could not identify password for [vostinar]
+2025-07-14T12:17:01.592408+03:00 vostinar-VirtualBox CRON[2972]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T12:17:01.639176+03:00 vostinar-VirtualBox CRON[2972]: pam_unix(cron:session): session closed for user root
+2025-07-14T12:30:01.689704+03:00 vostinar-VirtualBox CRON[2981]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T12:30:01.709274+03:00 vostinar-VirtualBox CRON[2981]: pam_unix(cron:session): session closed for user root
+2025-07-14T13:04:44.404306+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-07-14T13:17:01.790523+03:00 vostinar-VirtualBox CRON[3120]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T13:17:01.813144+03:00 vostinar-VirtualBox CRON[3120]: pam_unix(cron:session): session closed for user root
+2025-07-14T13:30:34.635269+03:00 vostinar-VirtualBox CRON[3125]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T13:30:34.693086+03:00 vostinar-VirtualBox CRON[3125]: pam_unix(cron:session): session closed for user root
+2025-07-14T13:42:10.275567+03:00 vostinar-VirtualBox systemd-logind[3231]: New seat seat0.
+2025-07-14T13:42:10.276418+03:00 vostinar-VirtualBox systemd-logind[3231]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-14T13:42:10.281009+03:00 vostinar-VirtualBox systemd-logind[3231]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-14T13:42:10.282781+03:00 vostinar-VirtualBox systemd-logind[3231]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-14T13:42:10.284104+03:00 vostinar-VirtualBox systemd-logind[3231]: New session c1 of user vostinar.
+2025-07-14T13:43:24.122385+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): conversation failed
+2025-07-14T13:43:24.754682+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: pam_unix(cinnamon-screensaver:auth): auth could not identify password for [vostinar]
+2025-07-14T15:24:45.189136+03:00 vostinar-VirtualBox CRON[3277]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T15:24:45.189767+03:00 vostinar-VirtualBox CRON[3277]: pam_unix(cron:session): session closed for user root
+2025-07-14T15:30:01.631643+03:00 vostinar-VirtualBox CRON[3324]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T15:30:01.866405+03:00 vostinar-VirtualBox CRON[3324]: pam_unix(cron:session): session closed for user root
+2025-07-14T16:17:01.086927+03:00 vostinar-VirtualBox CRON[3402]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T16:17:01.136732+03:00 vostinar-VirtualBox CRON[3402]: pam_unix(cron:session): session closed for user root
+2025-07-14T16:30:01.205476+03:00 vostinar-VirtualBox CRON[3407]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T16:30:01.250239+03:00 vostinar-VirtualBox CRON[3407]: pam_unix(cron:session): session closed for user root
+2025-07-14T17:17:01.439841+03:00 vostinar-VirtualBox CRON[3435]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T17:17:01.529503+03:00 vostinar-VirtualBox CRON[3435]: pam_unix(cron:session): session closed for user root
+2025-07-14T17:30:01.621772+03:00 vostinar-VirtualBox CRON[3450]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T17:30:01.685440+03:00 vostinar-VirtualBox CRON[3450]: pam_unix(cron:session): session closed for user root
+2025-07-14T18:17:01.588447+03:00 vostinar-VirtualBox CRON[3485]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T18:17:01.635182+03:00 vostinar-VirtualBox CRON[3485]: pam_unix(cron:session): session closed for user root
+2025-07-14T18:30:01.675361+03:00 vostinar-VirtualBox CRON[3577]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-14T18:30:01.729277+03:00 vostinar-VirtualBox CRON[3577]: pam_unix(cron:session): session closed for user root
+2025-07-15T08:17:01.589014+03:00 vostinar-VirtualBox CRON[3670]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-15T08:17:01.632505+03:00 vostinar-VirtualBox CRON[3670]: pam_unix(cron:session): session closed for user root
+2025-07-15T08:30:01.714728+03:00 vostinar-VirtualBox CRON[3682]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-15T08:30:01.745066+03:00 vostinar-VirtualBox CRON[3682]: pam_unix(cron:session): session closed for user root
+2025-07-15T09:30:01.790999+03:00 vostinar-VirtualBox CRON[3815]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-15T09:30:01.812718+03:00 vostinar-VirtualBox CRON[3815]: pam_unix(cron:session): session closed for user root
+2025-07-17T08:37:51.290986+03:00 vostinar-VirtualBox systemd-logind[787]: New seat seat0.
+2025-07-17T08:37:51.290998+03:00 vostinar-VirtualBox systemd-logind[787]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T08:37:51.291000+03:00 vostinar-VirtualBox systemd-logind[787]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T08:37:51.260534+03:00 vostinar-VirtualBox systemd-logind[787]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T08:37:52.448156+03:00 vostinar-VirtualBox polkitd[779]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-17T08:37:52.456915+03:00 vostinar-VirtualBox polkitd[779]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-17T08:37:52.634140+03:00 vostinar-VirtualBox polkitd[779]: Finished loading, compiling and executing 14 rules
+2025-07-17T08:37:52.651616+03:00 vostinar-VirtualBox polkitd[779]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-17T08:37:58.196903+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-17T08:37:58.261099+03:00 vostinar-VirtualBox systemd-logind[787]: New session c1 of user vostinar.
+2025-07-17T08:37:58.419538+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-17T08:38:00.732591+03:00 vostinar-VirtualBox gnome-keyring-daemon[1648]: The Secret Service was already initialized
+2025-07-17T08:38:00.732770+03:00 vostinar-VirtualBox gnome-keyring-daemon[1648]: The PKCS#11 component was already initialized
+2025-07-17T08:38:00.732979+03:00 vostinar-VirtualBox gnome-keyring-daemon[1645]: discover_other_daemon: 1
+2025-07-17T08:38:00.737789+03:00 vostinar-VirtualBox gnome-keyring-daemon[1647]: discover_other_daemon: 1
+2025-07-17T08:38:00.738017+03:00 vostinar-VirtualBox gnome-keyring-daemon[1646]: discover_other_daemon: 1
+2025-07-17T08:38:06.647410+03:00 vostinar-VirtualBox polkitd[779]: Registered Authentication Agent for unix-session:c1 (system bus name :1.49 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-17T08:38:37.845313+03:00 vostinar-VirtualBox dbus-daemon[759]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-17T09:49:50.056999+03:00 vostinar-VirtualBox CRON[2332]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T09:49:50.256272+03:00 vostinar-VirtualBox CRON[2332]: pam_unix(cron:session): session closed for user root
+2025-07-17T10:10:47.538120+03:00 vostinar-VirtualBox dbus-daemon[759]: [system] Failed to activate service 'org.freedesktop.fwupd': timed out (service_start_timeout=25000ms)
+2025-07-17T10:10:47.592909+03:00 vostinar-VirtualBox dbus-daemon[1367]: [session uid=1000 pid=1367] Failed to activate service 'org.cinnamon.ScreenSaver': timed out (service_start_timeout=120000ms)
+2025-07-17T10:17:01.301923+03:00 vostinar-VirtualBox CRON[2454]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T10:17:01.333540+03:00 vostinar-VirtualBox CRON[2454]: pam_unix(cron:session): session closed for user root
+2025-07-17T10:26:57.196745+03:00 vostinar-VirtualBox systemd-logind[2522]: New seat seat0.
+2025-07-17T10:26:57.200424+03:00 vostinar-VirtualBox systemd-logind[2522]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T10:26:57.200808+03:00 vostinar-VirtualBox systemd-logind[2522]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T10:26:57.201028+03:00 vostinar-VirtualBox systemd-logind[2522]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T10:26:57.212169+03:00 vostinar-VirtualBox systemd-logind[2522]: New session c1 of user vostinar.
+2025-07-17T10:30:02.020147+03:00 vostinar-VirtualBox CRON[2543]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T10:30:02.052781+03:00 vostinar-VirtualBox CRON[2543]: pam_unix(cron:session): session closed for user root
+2025-07-17T10:42:05.694178+03:00 vostinar-VirtualBox dbus-daemon[759]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-17T11:16:19.996928+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-07-17T11:17:01.410853+03:00 vostinar-VirtualBox CRON[2722]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T11:17:01.423041+03:00 vostinar-VirtualBox CRON[2722]: pam_unix(cron:session): session closed for user root
+2025-07-17T11:18:23.153771+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar/practica ; USER=root ; COMMAND=/usr/local/bin/apt install pache2
+2025-07-17T11:18:23.182079+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T11:18:23.962057+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T11:18:28.368129+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar/practica ; USER=root ; COMMAND=/usr/local/bin/apt install apache2
+2025-07-17T11:18:28.370148+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T11:20:02.444031+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T11:21:06.533180+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar/practica ; USER=root ; COMMAND=/usr/bin/systemctl start apache2
+2025-07-17T11:21:06.535162+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T11:21:06.571405+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T11:30:01.373835+03:00 vostinar-VirtualBox CRON[3734]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T11:30:01.385428+03:00 vostinar-VirtualBox CRON[3734]: pam_unix(cron:session): session closed for user root
+2025-07-17T11:42:26.516757+03:00 vostinar-VirtualBox systemd-logind[3767]: New seat seat0.
+2025-07-17T11:42:26.532085+03:00 vostinar-VirtualBox systemd-logind[3767]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T11:42:26.532288+03:00 vostinar-VirtualBox systemd-logind[3767]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T11:42:26.534611+03:00 vostinar-VirtualBox systemd-logind[3767]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T11:42:27.011946+03:00 vostinar-VirtualBox systemd-logind[3767]: New session c1 of user vostinar.
+2025-07-17T12:24:51.006952+03:00 vostinar-VirtualBox systemd-logind[786]: New seat seat0.
+2025-07-17T12:24:51.006987+03:00 vostinar-VirtualBox systemd-logind[786]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T12:24:51.006989+03:00 vostinar-VirtualBox systemd-logind[786]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T12:24:51.006991+03:00 vostinar-VirtualBox systemd-logind[786]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T12:24:51.195990+03:00 vostinar-VirtualBox polkitd[777]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-17T12:24:51.209604+03:00 vostinar-VirtualBox polkitd[777]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-17T12:24:51.522866+03:00 vostinar-VirtualBox polkitd[777]: Finished loading, compiling and executing 14 rules
+2025-07-17T12:24:51.565420+03:00 vostinar-VirtualBox polkitd[777]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-17T12:24:57.249571+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-17T12:24:57.321217+03:00 vostinar-VirtualBox systemd-logind[786]: New session c1 of user vostinar.
+2025-07-17T12:24:57.377818+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-17T12:24:59.696919+03:00 vostinar-VirtualBox gnome-keyring-daemon[1707]: The PKCS#11 component was already initialized
+2025-07-17T12:24:59.697092+03:00 vostinar-VirtualBox gnome-keyring-daemon[1707]: The Secret Service was already initialized
+2025-07-17T12:24:59.697397+03:00 vostinar-VirtualBox gnome-keyring-daemon[1704]: discover_other_daemon: 1
+2025-07-17T12:24:59.697602+03:00 vostinar-VirtualBox gnome-keyring-daemon[1705]: discover_other_daemon: 1
+2025-07-17T12:24:59.698042+03:00 vostinar-VirtualBox gnome-keyring-daemon[1706]: discover_other_daemon: 1
+2025-07-17T12:25:06.065773+03:00 vostinar-VirtualBox polkitd[777]: Registered Authentication Agent for unix-session:c1 (system bus name :1.52 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-17T12:25:36.992949+03:00 vostinar-VirtualBox dbus-daemon[758]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-17T12:26:02.456820+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar ; USER=root ; COMMAND=/usr/local/bin/apt install nginx
+2025-07-17T12:26:02.457677+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T12:26:16.622669+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T12:26:35.526200+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar ; USER=root ; COMMAND=/usr/bin/systemctl start nginx
+2025-07-17T12:26:35.526912+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T12:26:38.141139+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T12:28:13.924799+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar ; USER=root ; COMMAND=/usr/bin/nano /var/www/html/index.html
+2025-07-17T12:28:13.932555+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T12:28:32.101522+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T12:30:01.925076+03:00 vostinar-VirtualBox CRON[2691]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T12:30:01.946076+03:00 vostinar-VirtualBox CRON[2691]: pam_unix(cron:session): session closed for user root
+2025-07-17T12:45:51.324712+03:00 vostinar-VirtualBox dbus-daemon[758]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-17T12:54:16.171132+03:00 vostinar-VirtualBox systemd-logind[2822]: New seat seat0.
+2025-07-17T12:54:16.180879+03:00 vostinar-VirtualBox systemd-logind[2822]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T12:54:16.181174+03:00 vostinar-VirtualBox systemd-logind[2822]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T12:54:16.183412+03:00 vostinar-VirtualBox systemd-logind[2822]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T12:54:16.200208+03:00 vostinar-VirtualBox systemd-logind[2822]: New session c1 of user vostinar.
+2025-07-17T13:17:01.347118+03:00 vostinar-VirtualBox CRON[2971]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T13:17:01.357122+03:00 vostinar-VirtualBox CRON[2971]: pam_unix(cron:session): session closed for user root
+2025-07-17T13:30:01.401541+03:00 vostinar-VirtualBox CRON[3093]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T13:30:01.408821+03:00 vostinar-VirtualBox CRON[3093]: pam_unix(cron:session): session closed for user root
+2025-07-17T14:37:26.243749+03:00 vostinar-VirtualBox CRON[3131]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T14:37:26.269302+03:00 vostinar-VirtualBox CRON[3131]: pam_unix(cron:session): session closed for user root
+2025-07-17T22:54:53.702747+03:00 vostinar-VirtualBox systemd-logind[795]: New seat seat0.
+2025-07-17T22:54:53.702775+03:00 vostinar-VirtualBox systemd-logind[795]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-17T22:54:53.702779+03:00 vostinar-VirtualBox systemd-logind[795]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-17T22:54:53.702781+03:00 vostinar-VirtualBox systemd-logind[795]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-17T22:54:54.889925+03:00 vostinar-VirtualBox polkitd[787]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-17T22:54:54.907650+03:00 vostinar-VirtualBox polkitd[787]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-17T22:54:55.014728+03:00 vostinar-VirtualBox polkitd[787]: Finished loading, compiling and executing 14 rules
+2025-07-17T22:54:55.044507+03:00 vostinar-VirtualBox polkitd[787]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-17T22:55:02.305826+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-17T22:55:02.366290+03:00 vostinar-VirtualBox systemd-logind[795]: New session c1 of user vostinar.
+2025-07-17T22:55:02.457945+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-17T22:55:05.585261+03:00 vostinar-VirtualBox gnome-keyring-daemon[1730]: The Secret Service was already initialized
+2025-07-17T22:55:05.585424+03:00 vostinar-VirtualBox gnome-keyring-daemon[1730]: The PKCS#11 component was already initialized
+2025-07-17T22:55:05.585963+03:00 vostinar-VirtualBox gnome-keyring-daemon[1727]: discover_other_daemon: 1
+2025-07-17T22:55:05.596676+03:00 vostinar-VirtualBox gnome-keyring-daemon[1728]: discover_other_daemon: 1
+2025-07-17T22:55:05.597656+03:00 vostinar-VirtualBox gnome-keyring-daemon[1729]: discover_other_daemon: 1
+2025-07-17T22:55:14.015136+03:00 vostinar-VirtualBox polkitd[787]: Registered Authentication Agent for unix-session:c1 (system bus name :1.53 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-17T22:55:45.615253+03:00 vostinar-VirtualBox dbus-daemon[767]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-17T23:08:48.978591+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar/practica/loguri_centralizate ; USER=root ; COMMAND=/usr/bin/cat /var/log/apache2/access.log
+2025-07-17T23:08:49.003717+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T23:08:49.003772+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T23:09:27.430600+03:00 vostinar-VirtualBox sudo: vostinar : TTY=pts/0 ; PWD=/home/vostinar/practica/loguri_centralizate ; USER=root ; COMMAND=/usr/bin/cat /var/log/apache2/access.log
+2025-07-17T23:09:27.431789+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session opened for user root(uid=0) by vostinar(uid=1000)
+2025-07-17T23:09:27.439458+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:session): session closed for user root
+2025-07-17T23:17:01.617834+03:00 vostinar-VirtualBox CRON[2604]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T23:17:01.634025+03:00 vostinar-VirtualBox CRON[2604]: pam_unix(cron:session): session closed for user root
+2025-07-17T23:30:01.705412+03:00 vostinar-VirtualBox CRON[2709]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-17T23:30:01.725858+03:00 vostinar-VirtualBox CRON[2709]: pam_unix(cron:session): session closed for user root
+2025-07-17T23:43:42.116040+03:00 vostinar-VirtualBox dbus-daemon[767]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-18T08:24:33.674286+03:00 vostinar-VirtualBox systemd-logind[775]: New seat seat0.
+2025-07-18T08:24:33.761306+03:00 vostinar-VirtualBox systemd-logind[775]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-18T08:24:33.774499+03:00 vostinar-VirtualBox systemd-logind[775]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-18T08:24:33.780574+03:00 vostinar-VirtualBox systemd-logind[775]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-18T08:24:34.930466+03:00 vostinar-VirtualBox polkitd[771]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-18T08:24:34.932124+03:00 vostinar-VirtualBox polkitd[771]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-18T08:24:35.087431+03:00 vostinar-VirtualBox polkitd[771]: Finished loading, compiling and executing 14 rules
+2025-07-18T08:24:35.125789+03:00 vostinar-VirtualBox polkitd[771]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-18T08:24:41.301415+03:00 vostinar-VirtualBox lightdm: pam_unix(lightdm-autologin:session): session opened for user vostinar(uid=1000) by (uid=0)
+2025-07-18T08:24:41.363772+03:00 vostinar-VirtualBox systemd-logind[775]: New session c1 of user vostinar.
+2025-07-18T08:24:41.391872+03:00 vostinar-VirtualBox (systemd): pam_unix(systemd-user:session): session opened for user vostinar(uid=1000) by vostinar(uid=0)
+2025-07-18T08:24:44.229620+03:00 vostinar-VirtualBox gnome-keyring-daemon[1785]: The PKCS#11 component was already initialized
+2025-07-18T08:24:44.229717+03:00 vostinar-VirtualBox gnome-keyring-daemon[1785]: The Secret Service was already initialized
+2025-07-18T08:24:44.229876+03:00 vostinar-VirtualBox gnome-keyring-daemon[1783]: discover_other_daemon: 1
+2025-07-18T08:24:44.231084+03:00 vostinar-VirtualBox gnome-keyring-daemon[1782]: discover_other_daemon: 1
+2025-07-18T08:24:44.231215+03:00 vostinar-VirtualBox gnome-keyring-daemon[1784]: discover_other_daemon: 1
+2025-07-18T08:24:50.873899+03:00 vostinar-VirtualBox polkitd[771]: Registered Authentication Agent for unix-session:c1 (system bus name :1.53 [cinnamon --replace], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+2025-07-18T08:25:20.711641+03:00 vostinar-VirtualBox dbus-daemon[747]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-18T08:30:01.796491+03:00 vostinar-VirtualBox CRON[2519]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T08:30:01.846604+03:00 vostinar-VirtualBox CRON[2519]: pam_unix(cron:session): session closed for user root
+2025-07-18T09:04:04.726944+03:00 vostinar-VirtualBox systemd-logind[3319]: New seat seat0.
+2025-07-18T09:04:04.727051+03:00 vostinar-VirtualBox systemd-logind[3319]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-18T09:04:04.727088+03:00 vostinar-VirtualBox systemd-logind[3319]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-18T09:04:04.727115+03:00 vostinar-VirtualBox systemd-logind[3319]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-18T09:04:04.727140+03:00 vostinar-VirtualBox systemd-logind[3319]: New session c1 of user vostinar.
+2025-07-18T09:05:50.662181+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-07-18T09:38:40.962548+03:00 vostinar-VirtualBox CRON[3543]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T09:38:40.971119+03:00 vostinar-VirtualBox CRON[3543]: pam_unix(cron:session): session closed for user root
+2025-07-18T09:39:06.804474+03:00 vostinar-VirtualBox dbus-daemon[747]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+2025-07-18T10:17:01.417713+03:00 vostinar-VirtualBox CRON[3690]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T10:17:01.439960+03:00 vostinar-VirtualBox CRON[3690]: pam_unix(cron:session): session closed for user root
+2025-07-18T10:17:40.394030+03:00 vostinar-VirtualBox cinnamon-screensaver-pam-helper: gkr-pam: unlocked login keyring
+2025-07-18T10:30:01.479614+03:00 vostinar-VirtualBox CRON[3828]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-18T10:30:01.482227+03:00 vostinar-VirtualBox CRON[3828]: pam_unix(cron:session): session closed for user root
+2025-07-18T10:51:58.786838+03:00 vostinar-VirtualBox systemd-logind[3919]: New seat seat0.
+2025-07-18T10:51:58.790849+03:00 vostinar-VirtualBox systemd-logind[3919]: Watching system buttons on /dev/input/event0 (Power Button)
+2025-07-18T10:51:58.791207+03:00 vostinar-VirtualBox systemd-logind[3919]: Watching system buttons on /dev/input/event1 (Sleep Button)
+2025-07-18T10:51:58.803486+03:00 vostinar-VirtualBox systemd-logind[3919]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2025-07-18T10:51:58.860832+03:00 vostinar-VirtualBox systemd-logind[3919]: New session c1 of user vostinar.
+2025-07-18T11:08:37.938062+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname=vostinar uid=1000 euid=0 tty=/dev/pts/1 ruser=vostinar rhost=  user=vostinar
+2025-07-18T11:08:53.612969+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:auth): conversation failed
+2025-07-18T11:08:53.614530+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:auth): auth could not identify password for [vostinar]
+2025-07-18T11:08:53.615050+03:00 vostinar-VirtualBox sudo: vostinar : 2 incorrect password attempts ; TTY=pts/1 ; PWD=/home/vostinar ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+2025-07-18T11:09:42.584542+03:00 vostinar-VirtualBox sudo: pam_unix(sudo:auth): authentication failure; logname=vostinar uid=1000 euid=0 tty=/dev/pts/0 ruser=vostinar rhost=  user=vostinar
+2025-07-18T11:09:45.037084+03:00 vostinar-VirtualBox sudo: vostinar : 1 incorrect password attempt ; TTY=pts/0 ; PWD=/home/vostinar/practica ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow

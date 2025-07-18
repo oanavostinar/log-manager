@@ -1,0 +1,8 @@
+[Thu Jul 17 11:19:43.200748 2025] [mpm_event:notice] [pid 3344:tid 136964195760000] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Thu Jul 17 11:19:43.201288 2025] [core:notice] [pid 3344:tid 136964195760000] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jul 17 12:24:55.545271 2025] [mpm_event:notice] [pid 1310:tid 123943287670656] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Thu Jul 17 12:24:55.553148 2025] [core:notice] [pid 1310:tid 123943287670656] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jul 17 22:55:00.347618 2025] [mpm_event:notice] [pid 1322:tid 128771441387392] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Thu Jul 17 22:55:00.362885 2025] [core:notice] [pid 1322:tid 128771441387392] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 18 08:24:39.367254 2025] [mpm_event:notice] [pid 1376:tid 123984071055232] AH00489: Apache/2.4.58 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 18 08:24:39.403500 2025] [core:notice] [pid 1376:tid 123984071055232] AH00094: Command line: '/usr/sbin/apache2'
