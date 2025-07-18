@@ -4,4 +4,4 @@ In directorul loguri_centralizate sunt salvate toate fisierele de log colectate 
 
 Aplicatia permite utilizatorului sa filtreze logurile dupa cuvant cheie, data sau nivel de severitate (error, warning). De asemenea, ofera o sectiune speciala de detectare automata a problemelor de securitate, precum autentificari esuate, utilizare de sudo, sau instalarea unor anumite unelte (ex: nmap, gcc, nc).
 
-Afisarea rezultatelor se face direct in terminal cu un meniu interactiv pentru o usoara interactiune a utilizatorului cu aplicatia
+Afisarea rezultatelor se face direct in terminal cu un meniu interactiv pentru o usoara interactiune a utilizatorului cu aplicatia.
